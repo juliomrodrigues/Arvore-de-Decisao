@@ -23,6 +23,7 @@ A Matriz na tabela acima é formada pela média de todas as matrizes geradas ao 
 
 A diagonal principal (em negrito) destaca os registros classificados corretamente.
 
+
 ### Bibliotecas usadas:
 - Pandas
 - Sklearn
@@ -40,8 +41,17 @@ A diagonal principal (em negrito) destaca os registros classificados corretament
 ### Linguagem:
 - Python
 
-#### Fonte da Base de Dados: 
-Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
+### Fonte da Base de Dados: 
+- Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
 
-#### Como usar:
-Basta fazer o download do código fonte e da base de dados. Para executar o código por partes(células) e testar diferentes possibilidades de pré-processamento, recomendo uma IDE como Spyder ou o Jupyter. (Támbem é necessário ter o Python instalado no seu computador)
+### Como usar:
+- Basta fazer o download do código fonte e da base de dados. Para executar o código por partes(células) e testar diferentes possibilidades de pré-processamento, recomendo uma IDE como Spyder ou o Jupyter. (Támbem é necessário ter o Python instalado no seu computador)
+
+#### Outros Classificadores:
+- [Naive Bayes](https://github.com/juliomrodrigues/classificador-naive-bayes)
+- [Random Forest](https://github.com/juliomrodrigues/Random-Forest-Classificador)
+- [Regras]
+- [Instâncias(KNN)]
+- [Regressão Logística](https://github.com/juliomrodrigues/Regressao-Logistica-Classificador)
+- [SVM(Máquinas de Vetores de Suporte)]
+- [Redes Neurais]
