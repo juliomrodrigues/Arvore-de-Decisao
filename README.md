@@ -12,7 +12,8 @@
 0.8185 | OneHotEncoder + StandardScaler | 0.0046
 0.8185 | LabelEnconder + OneHotEncoder + StandardScaler | 0.0046
 
-![Matriz de Confusão](https://github.com/juliomrodrigues/Arvore-de-Decisao/blob/main/imagens/matriz_final.JPG)
+### Matriz de Confusão(Média de todas as 10 execuções):
+![](https://github.com/juliomrodrigues/Arvore-de-Decisao/blob/main/imagens/matriz_final.JPG)
 
 ### Bibliotecas usadas:
 - Pandas
