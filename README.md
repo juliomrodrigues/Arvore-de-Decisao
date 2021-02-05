@@ -7,13 +7,21 @@
 **Precisão** | **Pré-Processamentos** | **Desvio Padrão**
 | :------: | :------: | :------: |
 0.8138 | LabelEncoder | 0.0050
-0.8185 | OneHotEncoder | 0.0044
+**0.8185** | **OneHotEncoder** | **0.0044**
 0.8137 | LabelEncoder + StandardScaler | 0.0047
 0.8185 | OneHotEncoder + StandardScaler | 0.0046
 0.8185 | LabelEnconder + OneHotEncoder + StandardScaler | 0.0046
 
 ### Matriz de Confusão(Média de todas as 10 execuções):
-![](https://github.com/juliomrodrigues/Arvore-de-Decisao/blob/main/imagens/matriz_final.JPG)
+### Matriz de Confusão (Média):
+x | **0** | **1**
+| :------: | :------: | :------: |
+0 | **2171.3** | 300.7
+1 | 290 | **494.1**
+
+A Matriz na tabela acima é formada pela média de todas as matrizes geradas ao longo de 10 execuções usando pré-processamentos OneHotEncoder.
+
+A diagonal principal (em negrito) destaca os registros classificados corretamente.
 
 ### Bibliotecas usadas:
 - Pandas
