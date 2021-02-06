@@ -48,10 +48,11 @@ A diagonal principal (em negrito) destaca os registros classificados corretament
 - Basta fazer o download do código fonte e da base de dados. Para executar o código por partes(células) e testar diferentes possibilidades de pré-processamento, recomendo uma IDE como Spyder ou o Jupyter. (Támbem é necessário ter o Python instalado no seu computador)
 
 #### Outros Classificadores:
-- [Naive Bayes](https://github.com/juliomrodrigues/classificador-naive-bayes)
+- [Naive Bayes](https://github.com/juliomrodrigues/Classificador-Naive-Bayes)
+- [Árvore de Decisão](https://github.com/juliomrodrigues/Arvore-de-Decisao)
 - [Random Forest](https://github.com/juliomrodrigues/Random-Forest-Classificador)
-- [Regras]
-- [Instâncias(KNN)]
+- [Regras](https://github.com/juliomrodrigues/Classificador-Regras)
+- [KNN](https://github.com/juliomrodrigues/Classificador-KNN)
 - [Regressão Logística](https://github.com/juliomrodrigues/Regressao-Logistica-Classificador)
-- [SVM(Máquinas de Vetores de Suporte)]
-- [Redes Neurais]
+- [SVM](https://github.com/juliomrodrigues/Classificador-SVM)
+- [Rede Neural](https://github.com/juliomrodrigues/Classificador-Rede-Neural)
