@@ -49,7 +49,6 @@ A diagonal principal (em negrito) destaca os registros classificados corretament
 
 #### Outros Classificadores:
 - [Naive Bayes](https://github.com/juliomrodrigues/Classificador-Naive-Bayes)
-- [Árvore de Decisão](https://github.com/juliomrodrigues/Arvore-de-Decisao)
 - [Random Forest](https://github.com/juliomrodrigues/Random-Forest-Classificador)
 - [Regras](https://github.com/juliomrodrigues/Classificador-Regras)
 - [KNN](https://github.com/juliomrodrigues/Classificador-KNN)
