@@ -31,7 +31,6 @@ A diagonal principal (em negrito) destaca os registros classificados corretament
 - Pandas
 - Sklearn
 - Numpy
-- Pickle
 
 ### Técnicas de Pré-Processamento e Tratamento dos dados usada:
 - LabelEnconder;
