@@ -1,6 +1,6 @@
 # Classificador por Arvore de Decisão
 
-Treinando um modelo de árvore de decisão e aplicando em uma base de dados para classificar registros(Censo de 1994 - EUA).
+Treinando um modelo de árvore de decisão e aplicando em uma base de dados para classificar registros e compartilhar os resultados(Censo de 1994 - EUA).
 
 O objetivo é prever se uma pessoa possui renda anual <= ou > 50 mil dólares por ano.
 
@@ -15,7 +15,6 @@ Percentual Mínimo -> Base Line Classifier = 0.7559 (ZeroR).
 0.8185 | OneHotEncoder + StandardScaler | 0.0046
 0.8185 | LabelEnconder + OneHotEncoder + StandardScaler | 0.0046
 
-### Matriz de Confusão(Média de todas as 10 execuções):
 ### Matriz de Confusão (Média):
 x | **0** | **1**
 | :------: | :------: | :------: |
@@ -31,11 +30,6 @@ A diagonal principal (em negrito) destaca os registros classificados corretament
 - Pandas
 - Sklearn
 - Numpy
-
-### Técnicas de Pré-Processamento e Tratamento dos dados usada:
-- LabelEnconder;
-- OneHotEncoder;
-- StandardScaler;
 
 ### Ferramentas Usadas:
 - Anaconda
