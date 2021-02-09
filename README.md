@@ -25,6 +25,8 @@ A Matriz na tabela acima é formada pela média de todas as matrizes geradas ao 
 
 A diagonal principal (em negrito) destaca os registros classificados corretamente.
 
+### Especificações dos parâmetros usados:
+- DecisionTreeClassifier(criterion='entropy', random_state=0)
 
 ### Bibliotecas usadas:
 - Pandas
@@ -47,6 +49,7 @@ import pickle
 classificador = pickle.load(open('classificador_arvore_decisao.sav', 'rb'))
 ~~~~~
 4. Pronto, agora o classficador está pronto para ser usado.
+5. Se desejar treinar um novo classificador, faça o download do arquivo de treinamento e execute novas combinações de pré-processamentos e parâmetros [aqui](https://github.com/juliomrodrigues/Arvore-de-Decisao/blob/main/treinamento_arvore_decisao.py).
 
 #### Outros Classificadores:
 - [Naive Bayes](https://github.com/juliomrodrigues/Classificador-Naive-Bayes)
