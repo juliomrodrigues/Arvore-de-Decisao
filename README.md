@@ -1,5 +1,5 @@
 # Classificador por Arvore de Decisão
-
+### Descrição
 Treinando um modelo de árvore de decisão e aplicando em uma base de dados para classificar registros e compartilhar os resultados(Censo de 1994 - EUA).
 
 O objetivo é prever se uma pessoa possui renda anual <= ou > 50 mil dólares por ano.
